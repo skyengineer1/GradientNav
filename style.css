@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*-----NAVBAR-----*/
+
+nav.navbar {
+    padding: 0;
+    background: linear-gradient(to right, rgb(33, 144, 248), rgb(255, 36, 255));
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 10;
+}
+
+.nav-item a {
+    color: white !important;
+    text-shadow: 2px 3px 5px white;
+}
+
+.nav-item a:hover,
+.nav-item a:focus,
+.nav-item a:active {
+    color: white !important;
+    text-shadow: 4px 6px 10px white;
+}
+
+.navbar-nav li {
+    padding: 0 1em;
+}
+
+.fa-solid {
+    color: white;
+}
+
+.navbar-nav {
+    float: right;
+    text-align: right;
+}
+
+.logo {
+    height: 2em;
+    padding-left: 2em;
+}
+
