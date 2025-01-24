@@ -54,16 +54,6 @@ Welcome to the **Navbar Project**! 🎉 This project demonstrates a responsive n
 
 ---
 
-## 📷 Screenshots
-
-### Desktop View 🖥️
-![Desktop Navbar Preview](https://via.placeholder.com/800x400)
-
-### Mobile View 📱
-![Mobile Navbar Preview](https://via.placeholder.com/400x800)
-
----
-
 ## 🤝 Contributing
 
 Contributions are always welcome! 🎉
